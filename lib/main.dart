@@ -159,7 +159,7 @@ void main() {
                       height: 60,
                     ),
                     Text(
-                      'Cristiano Ronaldo',
+                      'Cristiano Rasmiy',
                       style: TextStyle(fontSize: 30),
                     )
                   ],
